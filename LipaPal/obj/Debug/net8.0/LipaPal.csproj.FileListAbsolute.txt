@@ -1,0 +1,15 @@
+C:\Users\jonat\Desktop\LipaPal\LipaPal\bin\Debug\net8.0\LipaPal.exe
+C:\Users\jonat\Desktop\LipaPal\LipaPal\bin\Debug\net8.0\LipaPal.deps.json
+C:\Users\jonat\Desktop\LipaPal\LipaPal\bin\Debug\net8.0\LipaPal.runtimeconfig.json
+C:\Users\jonat\Desktop\LipaPal\LipaPal\bin\Debug\net8.0\LipaPal.dll
+C:\Users\jonat\Desktop\LipaPal\LipaPal\bin\Debug\net8.0\LipaPal.pdb
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.AssemblyInfo.cs
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.sourcelink.json
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.dll
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\refint\LipaPal.dll
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.pdb
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\LipaPal.genruntimeconfig.cache
+C:\Users\jonat\Desktop\LipaPal\LipaPal\obj\Debug\net8.0\ref\LipaPal.dll
